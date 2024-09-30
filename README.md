@@ -17,8 +17,8 @@ Now you can activate this environment and explore the repository with whatever c
 
 ## My favorite Earth science topics
 
-
+I am generally interested in how the surface environment, atmosphere, and geochemistry of planets change over time. I typically approach these problems by building theoretical computer simulations and comparing them to data from sources such as planetary rovers, telescopes, or laboratory measurements. I've worked on projects addressing the evolution of Mars's atmosphere, characterization of the TRAPPIST-1 exoplanets, and the global freezing of Earth in the distant past.
 
 ## Licensing
 
-MIT Licence
+This repository is subject to the MIT License. I chose this license because the code in here will be purely for educational purposes and should be freely available to anybody interested.
