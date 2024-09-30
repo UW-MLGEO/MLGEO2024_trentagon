@@ -1,4 +1,5 @@
 # Trent Thomas's Repository for ESS 569
+
 Taught Autumn 2024 by Professor Marine Denolle at the University of Washington
 
 ## How to install this repository
@@ -22,3 +23,7 @@ I am generally interested in how the surface environment, atmosphere, and geoche
 ## Licensing
 
 This repository is subject to the MIT License. I chose this license because the code in here will be purely for educational purposes and should be freely available to anybody interested.
+
+## Glossary term
+
+**Contrastive Learning**: A deep learning technique where similar patterns detected in the data are pushed close together in a representation space, while dissimilar patterns are pushed far apart.
